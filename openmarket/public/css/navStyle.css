@@ -1,0 +1,17 @@
+
+#background{
+    background:maroon !important;
+}
+
+.dot {
+    height: 50px;
+    width: 50px;
+    background-color: #bbb;
+    border-radius: 50%;
+    float:right;
+  }
+.profile-image{
+    height:100%;
+    width:100%;
+
+}
